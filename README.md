@@ -1,16 +1,21 @@
-### Hi there 👋
+<h2 align="center">Hi there 👋 My name is Szymon Piskorz</h2>
 
-<!--
-**SzymonPiskorz/SzymonPiskorz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center"><a href="https://github.com/SzymonPiskorz/Portfolio-and-Projects">Projects</a></h3>
 
-Here are some ideas to get you started:
+<p align="center">Games and software developer with a BSc (Hons) in Game Development from South East Technological University.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages I use:
+**Use often:** `C++` `C#` `HTML` `CSS` `GDScript` `Python`
+
+**Used before:** `Javascript` `Assembly` `OpenGL`
+
+#
+
+### Tools I use:
+**Game Engines:** `Unity` `Godot`
+
+**IDEs:** `VS Code` `Visual Studio 2019`
+
+**Source Control:** `Git` `Github`
+
+**Other:** `Microsoft Suite (Word, Excell, Powerpoint)` `Photopea` `Paint.net` `Audacity`  `Wordpress` `CraftCMS` `Cognito Forms`
