@@ -5,17 +5,17 @@
 <p align="center">Games and software developer with a BSc (Hons) in Game Development from South East Technological University.</p>
 
 ### Languages I use:
-**Use often:** `C++` `C#` `HTML` `CSS` `GDScript` `Python`
+<p><b>Use often:</b> C#, C++, HTML, CSS, GDScript, Python</p>
 
-**Used before:** `Javascript` `Assembly` `OpenGL`
+<p><b>Used before:</b> Javascript, Assembly, OpenGL </p>
 
 #
 
 ### Tools I use:
-**Game Engines:** `Unity` `Godot`
+<p><b>Game Engines:</b>  Unity, Godot </p>
 
-**IDEs:** `VS Code` `Visual Studio 2019`
+<p><b>IDEs:</b>  VS Code, Visual Studio 2019 </p>
 
-**Source Control:** `Git` `Github`
+<p><b>Source Control:</b> Git, Github </p>
 
-**Other:** `Microsoft Suite (Word, Excell, Powerpoint)` `Photopea` `Paint.net` `Audacity`  `Wordpress` `CraftCMS` `Cognito Forms`
+<p><b>Other:</b> Microsoft Suite (Word, Excell, Powerpoint), Photopea, Wordpress, CraftCMS, Cognito Forms </p>
